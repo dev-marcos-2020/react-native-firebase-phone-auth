@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "337708890",
+    "firebase_url": "https://phone-number-verify.firebaseio.com",
+    "project_id": "phone-number-verify",
+    "storage_bucket": "phone-number-verify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337708890:android:daecff50b996da2442d563",
+        "android_client_info": {
+          "package_name": "com.mypass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337708890-hpkar37hponlj69nsfbp55jpsjamaeis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mypass",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "337708890-6odv3pjs0clmpn3an3l0e86rngjfqdhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07CmsfiTcbyIYiZyxmpDG2ch-cMbyAkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337708890-6odv3pjs0clmpn3an3l0e86rngjfqdhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337708890-6ve99g4m9k8pk887icoo7bh5732sr89q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mypass"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337708890:android:c046f1bb9c424f2842d563",
+        "android_client_info": {
+          "package_name": "com.rninitial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337708890-6odv3pjs0clmpn3an3l0e86rngjfqdhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07CmsfiTcbyIYiZyxmpDG2ch-cMbyAkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337708890-6odv3pjs0clmpn3an3l0e86rngjfqdhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337708890-6ve99g4m9k8pk887icoo7bh5732sr89q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mypass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>337708890-6ve99g4m9k8pk887icoo7bh5732sr89q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.337708890-6ve99g4m9k8pk887icoo7bh5732sr89q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3qFGeWF53JmwwVlxRKAvLJHHyMUAnbTs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>337708890</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mypass</string>
+	<key>PROJECT_ID</key>
+	<string>phone-number-verify</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phone-number-verify.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:337708890:ios:f2e74d243151c02742d563</string>
+	<key>DATABASE_URL</key>
+	<string>https://phone-number-verify.firebaseio.com</string>
+</dict>
+</plist>
